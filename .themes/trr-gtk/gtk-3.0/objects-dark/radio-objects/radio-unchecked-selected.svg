@@ -26,25 +26,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="47.5"
-     inkscape:cx="0.85894472"
-     inkscape:cy="7.8315788"
+     inkscape:cx="4.2210526"
+     inkscape:cy="7.9578947"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1868"
-     inkscape:window-height="1028"
-     inkscape:window-x="52"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4493" />
-  </sodipodi:namedview>
+     inkscape:window-width="1920"
+     inkscape:window-height="952"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5275">
     <rdf:RDF>
@@ -62,11 +58,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-292.76665)">
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.23151045;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path5434"
-       cx="2.116667"
-       cy="294.88333"
-       r="1.7363281" />
+    <g
+       transform="matrix(0.21704103,0,0,0.21704103,-41.291539,335.42955)"
+       style="display:inline"
+       id="radio-unchecked-selected"
+       inkscape:label="#g5259">
+      <circle
+         r="7.9999995"
+         cy="-186.81367"
+         cx="200"
+         id="path5434"
+         style="opacity:0.69800002;fill:none;fill-opacity:1;stroke:#dadae2;stroke-width:1.06666672;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

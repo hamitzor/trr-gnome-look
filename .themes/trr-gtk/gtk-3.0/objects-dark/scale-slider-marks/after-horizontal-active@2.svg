@@ -16,7 +16,7 @@
    width="22"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="after-horizontal-active@2.svg">
+   sodipodi:docname="after-horizontal-active.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,16 +26,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1288"
-     inkscape:window-height="844"
+     inkscape:window-width="1366"
+     inkscape:window-height="724"
      id="namedview13"
      showgrid="false"
      inkscape:zoom="22.627418"
-     inkscape:cx="3.341362"
-     inkscape:cy="10.240307"
-     inkscape:window-x="632"
-     inkscape:window-y="88"
-     inkscape:window-maximized="0"
+     inkscape:cx="18.389023"
+     inkscape:cy="11.700347"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg5435"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -891,6 +891,16 @@
          id="rect1050"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.92308366;marker:none;enable-background:accumulate" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1216"
+       id="linearGradient1198"
+       x1="11"
+       y1="2.9999969"
+       x2="11"
+       y2="19"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,1.5554793e-4)" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath1222">
@@ -909,18 +919,34 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.06;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+     style="opacity:0.06;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 5.5,4.0001555 a 1.5,1.5 0 0 0 -1.5,1.5 v 6.5000005 l 7,8 7,-8 V 5.5001555 a 1.5,1.5 0 0 0 -1.5,-1.5 z"
      id="path1228" />
   <path
-     style="opacity:1;fill:#535353;fill-opacity:1;stroke:#101010;stroke-width:0.44444445;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98920863"
-     d="M 4.8888889,2.1055045 A 1.6666667,1.6666667 0 0 0 3.2222222,3.7721711 V 10.994394 L 11,19.883283 18.777778,10.994394 V 3.7721711 A 1.6666667,1.6666667 0 0 0 17.111111,2.1055045 Z"
+     id="path377"
+     d="m 5.5,3.0001555 a 1.5,1.5 0 0 0 -1.5,1.5 v 6.5000005 l 7,8 7,-8 V 4.5001555 a 1.5,1.5 0 0 0 -1.5,-1.5 z"
+     style="opacity:0.34;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:url(#linearGradient1198);fill-opacity:1;stroke:none;stroke-width:2.29189038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 5.5,3.0001555 a 1.5,1.5 0 0 0 -1.5,1.5 v 6.5000005 l 7,8 7,-8 V 4.5001555 a 1.5,1.5 0 0 0 -1.5,-1.5 z"
      id="rect33"
      inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1218"
+     d="m 5.5,3.0001555 a 1.5,1.5 0 0 0 -1.5,1.5 v 6.5000005 l 7,8 7,-8 V 4.5001555 a 1.5,1.5 0 0 0 -1.5,-1.5 z"
+     style="opacity:0.38;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     clip-path="url(#clipPath1222)" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path976"
+     d="m 5.5,3.0001555 a 1.5,1.5 0 0 0 -1.5,1.5 v 6.5000005 l 7,8 7,-8 V 4.5001555 a 1.5,1.5 0 0 0 -1.5,-1.5 z"
+     style="opacity:0.12000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29189038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

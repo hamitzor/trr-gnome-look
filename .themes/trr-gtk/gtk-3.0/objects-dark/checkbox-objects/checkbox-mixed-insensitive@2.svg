@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
-   width="16"
+   height="32"
+   width="32"
    version="1.1"
-   viewBox="0 0 4.2333332 4.2333335"
-   id="svg29"
+   viewBox="0 0 8.466667 8.4666669"
+   id="svg31"
    sodipodi:docname="checkbox-mixed-insensitive@2.svg"
    inkscape:version="0.92.1 r15371">
   <sodipodi:namedview
@@ -25,27 +25,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="873"
-     inkscape:window-height="864"
-     id="namedview31"
+     inkscape:window-width="838"
+     inkscape:window-height="834"
+     id="namedview33"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="52"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="3"
      inkscape:window-y="31"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg29" />
+     inkscape:current-layer="g4536" />
   <defs
      id="defs12">
     <linearGradient
        id="linearGradient6315"
-       y2="503.7"
+       x1="404"
        gradientUnits="userSpaceOnUse"
-       x2="398.38"
-       gradientTransform="matrix(0.24694811,0,0,0.24694811,-96.660469,-123.04981)"
        y1="514.24"
-       x1="404">
+       gradientTransform="matrix(0.49389622,0,0,0.49389622,-193.31794,-246.08962)"
+       x2="398.38"
+       y2="503.7">
       <stop
          stop-color="#87b7ff"
          offset="0"
@@ -57,12 +57,12 @@
     </linearGradient>
     <linearGradient
        id="linearGradient6317"
-       y2="502.85"
+       x1="402.25"
        gradientUnits="userSpaceOnUse"
-       x2="396.62"
-       gradientTransform="matrix(0.24694811,0,0,0.24694811,-96.660469,-123.04981)"
        y1="507.86"
-       x1="402.25">
+       gradientTransform="matrix(0.49389622,0,0,0.49389622,-193.31794,-246.08962)"
+       x2="396.62"
+       y2="502.85">
       <stop
          stop-color="#75afff"
          offset="0"
@@ -81,44 +81,47 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:#323232;stroke-width:0.21704;fill-opacity:1"
-     id="rect16"
-     x="0.26308432"
-     y="0.26363459"
-     width="3.7042215"
-     height="3.7042215"
-     ry="0.7562542"
-     rx="0.7562542" />
-  <rect
-     style="fill:#4c4c4c;stroke-width:0.21704;fill-opacity:1"
-     id="rect18"
-     x="0.51050979"
-     y="0.51105672"
-     width="3.2102387"
-     height="3.2102387"
-     ry="0.65543914"
-     rx="0.65543914" />
-  <rect
-     style="opacity:0.704;stroke-width:0.21704"
-     id="rect20"
-     x="0.95761168"
-     y="2.0477037"
-     width="2.3151658"
-     height="0.48616961"
-     ry="0.2430848"
-     rx="0.28024206" />
-  <rect
-     style="fill:#cccccc;stroke-width:0.21704;fill-opacity:1"
-     id="rect22"
-     x="0.95761168"
-     y="1.8740677"
-     width="2.3151658"
-     height="0.48616961"
-     ry="0.2430848"
-     rx="0.28024206" />
+  <g
+     id="g4536">
+    <rect
+       style="fill:#808080;stroke-width:0.43408;fill-opacity:1"
+       id="rect16"
+       x="0.52916664"
+       y="0.53727317"
+       width="7.408443"
+       height="7.408443"
+       ry="1.5125084"
+       rx="1.5125084" />
+    <rect
+       style="fill:#808080;stroke-width:0.43408;fill-opacity:1"
+       id="rect18"
+       x="1.0240176"
+       y="1.0321175"
+       width="6.4204774"
+       height="6.4204774"
+       ry="1.3108783"
+       rx="1.3108783" />
+    <rect
+       style="opacity:0.701;stroke-width:0.43408"
+       id="rect20"
+       x="1.9182214"
+       y="4.1054115"
+       width="4.6303315"
+       height="0.97233921"
+       ry="0.48616961"
+       rx="0.56048411" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.43408;fill-opacity:1"
+       id="rect22"
+       x="1.9182214"
+       y="3.7581394"
+       width="4.6303315"
+       height="0.97233921"
+       ry="0.48616961"
+       rx="0.56048411" />
+  </g>
 </svg>

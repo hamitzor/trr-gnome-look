@@ -9,10 +9,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
-   width="16"
+   height="32"
+   width="32"
    version="1.1"
-   viewBox="0 0 4.2333332 4.2333335"
+   viewBox="0 0 8.466667 8.4666669"
    id="svg26"
    sodipodi:docname="checkbox-mixed@2.svg"
    inkscape:version="0.92.1 r15371">
@@ -25,27 +25,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1868"
-     inkscape:window-height="1028"
+     inkscape:window-width="878"
+     inkscape:window-height="839"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-6.4745763"
-     inkscape:cy="8"
-     inkscape:window-x="52"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg26" />
   <defs
      id="defs7">
     <linearGradient
        id="linearGradient3856-2-5"
-       y2="499.38"
+       x1="399.09"
        gradientUnits="userSpaceOnUse"
-       x2="399.09"
-       gradientTransform="matrix(0.24592409,0,0,0.24592409,-96.243648,-122.5431)"
        y1="514.38"
-       x1="399.09">
+       gradientTransform="matrix(0.49184818,0,0,0.49187277,-192.48774,-245.07918)"
+       x2="399.09"
+       y2="499.38">
       <stop
          stop-color="#1d60c4"
          offset="0"
@@ -64,53 +64,56 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     rx="0"
-     ry="0"
-     height="3.6888614"
-     width="3.6888614"
-     y="0.27412999"
-     x="0.26480737"
-     id="rect11"
-     style="fill:none;stroke-width:0.21614" />
-  <rect
-     style="fill:#1b3652;stroke-width:0.21614;fill-opacity:1"
-     id="rect13"
-     x="0.28015396"
-     y="0.2589986"
-     width="3.6888614"
-     height="3.6888614"
-     ry="0.75311822"
-     rx="0.75311822" />
-  <rect
-     style="fill:#356da9;fill-opacity:1;stroke-width:0.21614"
-     id="rect15"
-     x="0.52612054"
-     y="0.50540137"
-     width="3.1969268"
-     height="3.1969268"
-     ry="0.65272123"
-     rx="0.65272123" />
-  <rect
-     style="opacity:0.70099996;stroke-width:0.21614"
-     id="rect17"
-     x="0.97180128"
-     y="2.0356696"
-     width="2.3055654"
-     height="0.4841536"
-     ry="0.2420768"
-     rx="0.27907997" />
-  <rect
-     style="fill:#e9f1fc;stroke-width:0.21614"
-     id="rect19"
-     x="0.97180128"
-     y="1.8627603"
-     width="2.3055654"
-     height="0.4841536"
-     ry="0.2420768"
-     rx="0.27907997" />
+  <g
+     id="g4528">
+    <rect
+       rx="0"
+       ry="0"
+       height="7.3780913"
+       width="7.3777227"
+       y="0.56756449"
+       x="0.52916676"
+       id="rect11"
+       style="fill:none;stroke-width:0.43229079" />
+    <rect
+       rx="1.5062364"
+       ry="1.5063118"
+       height="7.3780913"
+       width="7.3777227"
+       y="0.53730023"
+       x="0.55985993"
+       id="rect13"
+       style="fill:url(#linearGradient3856-2-5);stroke-width:0.43229079" />
+    <rect
+       rx="1.3054425"
+       ry="1.3055077"
+       height="6.3941731"
+       width="6.3938537"
+       y="1.0301304"
+       x="1.0517931"
+       id="rect15"
+       style="fill:#0086f5;stroke-width:0.43229079;fill-opacity:1" />
+    <rect
+       rx="0.55815995"
+       ry="0.4841778"
+       height="0.9683556"
+       width="4.6111307"
+       y="4.0908198"
+       x="1.9431546"
+       id="rect17"
+       style="opacity:0.704;stroke-width:0.43229079" />
+    <rect
+       rx="0.55815995"
+       ry="0.4841778"
+       height="0.9683556"
+       width="4.6111307"
+       y="3.7449839"
+       x="1.9431546"
+       id="rect19"
+       style="fill:#e9f1fc;stroke-width:0.43229079" />
+  </g>
 </svg>

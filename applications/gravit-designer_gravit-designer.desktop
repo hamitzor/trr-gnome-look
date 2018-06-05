@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Gravit Designer
+Comment=Gravit Designer is a full featured free vector design app right at your fingertip.
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/gravit-designer_gravit-designer.desktop /snap/bin/gravit-designer %U
+Terminal=false
+Type=Application
+Icon=appimagekit-gravit-designer

@@ -10448,7 +10448,7 @@ headerbar {
   color: rgba(41, 33, 33, 0.8);
   background-color: transparent;
   border: none;
-  background-image: linear-gradient(to bottom, #ffffff, #c0c0c0);
+  background-image: linear-gradient(to bottom, #ffffff, #d6d6d6);
 }
 
 .maximized headerbar {

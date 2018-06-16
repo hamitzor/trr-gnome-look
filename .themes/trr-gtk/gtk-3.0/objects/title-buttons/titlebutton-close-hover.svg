@@ -1,1 +1,162 @@
-<?xml version="1.0" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 18 18" width="18" height="18"><defs><clipPath id="_clipPath_J9JLRSYvY4wwZy3RdkvgB3tO5T2rE6gy"><rect width="18" height="18"/></clipPath></defs><g clip-path="url(#_clipPath_J9JLRSYvY4wwZy3RdkvgB3tO5T2rE6gy)"><clipPath id="_clipPath_GmElDr6gk85acQYQfk0AFnY0A1rttnQi"><rect x="-1.5" y="-1.5" width="21" height="21" transform="matrix(1,0,0,1,0,0)" fill="rgb(255,255,255)"/></clipPath><g clip-path="url(#_clipPath_GmElDr6gk85acQYQfk0AFnY0A1rttnQi)"><g id="Group"><clipPath id="_clipPath_KvGHAORnxVMUv0H6UfJAOeLnVPmTYl1z"><rect x="-1.5" y="-1.5" width="21" height="21" transform="matrix(1,0,0,1,0,0)" fill="rgb(255,255,255)"/></clipPath><g clip-path="url(#_clipPath_KvGHAORnxVMUv0H6UfJAOeLnVPmTYl1z)"><g id="Group"><g id="Group"><clipPath id="_clipPath_paGgseNPouBLSHYfestJZTL2vxbiVy51"><rect x="-1.5" y="-1.5" width="21" height="21" transform="matrix(1,0,0,1,0,0)" fill="rgb(255,255,255)"/></clipPath><g clip-path="url(#_clipPath_paGgseNPouBLSHYfestJZTL2vxbiVy51)"><g id="Group"><g id="Group"><g id="Group"><path d=" M 9 0.25 L 9 0.25 C 13.829 0.25 17.75 4.171 17.75 9 L 17.75 9 C 17.75 13.829 13.829 17.75 9 17.75 L 9 17.75 C 4.171 17.75 0.25 13.829 0.25 9 L 0.25 9 C 0.25 4.171 4.171 0.25 9 0.25 Z " fill="rgb(255,255,255)"/><line x1="5.938" y1="12.063" x2="12.063" y2="5.938" vector-effect="non-scaling-stroke" stroke-width="1.7" stroke="rgb(215,0,0)" stroke-opacity="1000000" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/><line x1="5.938" y1="5.938" x2="12.063" y2="12.063" vector-effect="non-scaling-stroke" stroke-width="1.7" stroke="rgb(215,0,0)" stroke-opacity="1000000" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/></g></g></g></g></g></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 18 18"
+   width="18"
+   height="18"
+   version="1.1"
+   id="svg3620"
+   sodipodi:docname="titlebutton-close-hover.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3624">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     id="namedview3622"
+     showgrid="false"
+     inkscape:zoom="37.083822"
+     inkscape:cx="11.067758"
+     inkscape:cy="9.1453982"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3620" />
+  <defs
+     id="defs3584">
+    <clipPath
+       id="_clipPath_LNd1nYyRxLnCMc5COGyWedtKh5BRzoHQ">
+      <rect
+         width="18"
+         height="18"
+         id="rect3581" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_LNd1nYyRxLnCMc5COGyWedtKh5BRzoHQ)"
+     id="g3618"
+     style="fill:#b3b3b3">
+    <clipPath
+       id="_clipPath_8rxW3YSNrVySIIGDlLvu6JZqJ3dAw7Ge">
+      <rect
+         x="-1.5"
+         y="-1.5"
+         width="21"
+         height="21"
+         transform="matrix(1,0,0,1,0,0)"
+         fill="rgb(255,255,255)"
+         id="rect3586" />
+    </clipPath>
+    <g
+       clip-path="url(#_clipPath_8rxW3YSNrVySIIGDlLvu6JZqJ3dAw7Ge)"
+       id="g3616"
+       style="fill:#b3b3b3">
+      <g
+         id="g3614"
+         style="fill:#b3b3b3">
+        <clipPath
+           id="_clipPath_RINCJTjiv5cIzN2eSv0Ub88jcLAJb5L3">
+          <rect
+             x="-1.5"
+             y="-1.5"
+             width="21"
+             height="21"
+             transform="matrix(1,0,0,1,0,0)"
+             fill="rgb(255,255,255)"
+             id="rect3589" />
+        </clipPath>
+        <g
+           clip-path="url(#_clipPath_RINCJTjiv5cIzN2eSv0Ub88jcLAJb5L3)"
+           id="g3612"
+           style="fill:#b3b3b3">
+          <g
+             id="g3610"
+             style="fill:#b3b3b3">
+            <g
+               id="g3608"
+               style="fill:#b3b3b3">
+              <clipPath
+                 id="_clipPath_9yDdBE3zK7TYifykYdlcqRo6XvqAxudc">
+                <rect
+                   x="-1.5"
+                   y="-1.5"
+                   width="21"
+                   height="21"
+                   transform="matrix(1,0,0,1,0,0)"
+                   fill="rgb(255,255,255)"
+                   id="rect3592" />
+              </clipPath>
+              <g
+                 clip-path="url(#_clipPath_9yDdBE3zK7TYifykYdlcqRo6XvqAxudc)"
+                 id="g3606"
+                 style="fill:#b3b3b3">
+                <g
+                   id="g3604"
+                   style="fill:#b3b3b3">
+                  <g
+                     id="g3602"
+                     style="fill:#b3b3b3">
+                    <g
+                       id="Group"
+                       style="fill:#b3b3b3">
+                      <path
+                         d=" M 9 0.25 L 9 0.25 C 13.829 0.25 17.75 4.171 17.75 9 L 17.75 9 C 17.75 13.829 13.829 17.75 9 17.75 L 9 17.75 C 4.171 17.75 0.25 13.829 0.25 9 L 0.25 9 C 0.25 4.171 4.171 0.25 9 0.25 Z "
+                         fill="rgb(215,0,0)"
+                         id="path3595"
+                         style="fill:#b3b3b3" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect
+     style="isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4187-3-9"
+     width="10.166159"
+     height="1.5370584"
+     x="-5.0737128"
+     y="11.921257"
+     ry="0"
+     transform="rotate(-45)" />
+  <rect
+     style="isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4187-3-9-0"
+     width="10.166159"
+     height="1.5370584"
+     x="7.6067066"
+     y="-0.77789569"
+     ry="0"
+     transform="rotate(45)" />
+</svg>

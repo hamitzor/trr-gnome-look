@@ -1,1 +1,122 @@
-<?xml version="1.0" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 18 18" width="18" height="18"><defs><clipPath id="_clipPath_P2oMFFt3CgOGLArJOdwYSFGl2CJ8ZzUw"><rect width="18" height="18"/></clipPath></defs><g clip-path="url(#_clipPath_P2oMFFt3CgOGLArJOdwYSFGl2CJ8ZzUw)"><clipPath id="_clipPath_R4lp5FpgEU2TS9ZgqDcVQi403fMGBpSm"><rect x="-1.5" y="-1.5" width="21" height="21" transform="matrix(1,0,0,1,0,0)" fill="rgb(255,255,255)"/></clipPath><g clip-path="url(#_clipPath_R4lp5FpgEU2TS9ZgqDcVQi403fMGBpSm)"><g id="Group"><clipPath id="_clipPath_YsUVorvxj04CnnW8Kpi4YLI26YzxYXRy"><rect x="-1.5" y="-1.5" width="21" height="21" transform="matrix(1,0,0,1,0,0)" fill="rgb(255,255,255)"/></clipPath><g clip-path="url(#_clipPath_YsUVorvxj04CnnW8Kpi4YLI26YzxYXRy)"><g id="Group"><g id="Group"><path d=" M 9 0.25 L 9 0.25 C 13.829 0.25 17.75 4.171 17.75 9 L 17.75 9 C 17.75 13.829 13.829 17.75 9 17.75 L 9 17.75 C 4.171 17.75 0.25 13.829 0.25 9 L 0.25 9 C 0.25 4.171 4.171 0.25 9 0.25 Z " fill="rgb(0,189,69)"/><line x1="6.959" y1="9" x2="11.041" y2="9" vector-effect="non-scaling-stroke" stroke-width="1.5" stroke="rgb(255,255,255)" stroke-opacity="10000" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/></g></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 18 18"
+   width="18"
+   height="18"
+   version="1.1"
+   id="svg2108"
+   sodipodi:docname="titlebutton-minimize.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata2112">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     id="namedview2110"
+     showgrid="false"
+     inkscape:zoom="37.083822"
+     inkscape:cx="13.195383"
+     inkscape:cy="9.3289863"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2108" />
+  <defs
+     id="defs2085">
+    <clipPath
+       id="_clipPath_P2oMFFt3CgOGLArJOdwYSFGl2CJ8ZzUw">
+      <rect
+         width="18"
+         height="18"
+         id="rect2082" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_P2oMFFt3CgOGLArJOdwYSFGl2CJ8ZzUw)"
+     id="g2106"
+     style="fill:#cccccc">
+    <clipPath
+       id="_clipPath_R4lp5FpgEU2TS9ZgqDcVQi403fMGBpSm">
+      <rect
+         x="-1.5"
+         y="-1.5"
+         width="21"
+         height="21"
+         transform="matrix(1,0,0,1,0,0)"
+         fill="rgb(255,255,255)"
+         id="rect2087" />
+    </clipPath>
+    <g
+       clip-path="url(#_clipPath_R4lp5FpgEU2TS9ZgqDcVQi403fMGBpSm)"
+       id="g2104"
+       style="fill:#cccccc">
+      <g
+         id="g2102"
+         style="fill:#cccccc">
+        <clipPath
+           id="_clipPath_YsUVorvxj04CnnW8Kpi4YLI26YzxYXRy">
+          <rect
+             x="-1.5"
+             y="-1.5"
+             width="21"
+             height="21"
+             transform="matrix(1,0,0,1,0,0)"
+             fill="rgb(255,255,255)"
+             id="rect2090" />
+        </clipPath>
+        <g
+           clip-path="url(#_clipPath_YsUVorvxj04CnnW8Kpi4YLI26YzxYXRy)"
+           id="g2100"
+           style="fill:#cccccc">
+          <g
+             id="g2098"
+             style="fill:#cccccc">
+            <g
+               id="Group"
+               style="fill:#cccccc">
+              <path
+                 d=" M 9 0.25 L 9 0.25 C 13.829 0.25 17.75 4.171 17.75 9 L 17.75 9 C 17.75 13.829 13.829 17.75 9 17.75 L 9 17.75 C 4.171 17.75 0.25 13.829 0.25 9 L 0.25 9 C 0.25 4.171 4.171 0.25 9 0.25 Z "
+                 fill="rgb(0,189,69)"
+                 id="path2093"
+                 style="fill:#cccccc" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect2659"
+     width="7.0111437"
+     height="1.6449221"
+     x="5.4740853"
+     y="8.2113647" />
+</svg>

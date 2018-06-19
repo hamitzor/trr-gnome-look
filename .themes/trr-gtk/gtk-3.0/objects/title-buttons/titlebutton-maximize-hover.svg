@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="isolation:isolate"
@@ -25,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,20 +40,32 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1003"
      id="namedview1336"
      showgrid="false"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
      inkscape:zoom="32"
-     inkscape:cx="4.4735536"
-     inkscape:cy="8.2258105"
+     inkscape:cx="-1.5420714"
+     inkscape:cy="8.1789355"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g1330" />
   <defs
      id="defs1307">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient831">
+      <stop
+         style="stop-color:#226bff;stop-opacity:1"
+         offset="0"
+         id="stop827" />
+      <stop
+         style="stop-color:#17adff;stop-opacity:1"
+         offset="1"
+         id="stop829" />
+    </linearGradient>
     <clipPath
        id="_clipPath_2W7EQtW3AE4doIQw6rIiBZ3BNnRMLkES">
       <rect
@@ -60,6 +73,15 @@
          height="18"
          id="rect1304" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient831"
+       id="linearGradient833"
+       x1="9"
+       y1="17.75"
+       x2="9"
+       y2="0.25"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      clip-path="url(#_clipPath_2W7EQtW3AE4doIQw6rIiBZ3BNnRMLkES)"
@@ -80,9 +102,10 @@
        id="g1330">
       <g
          id="g1328"
-         style="fill:#b3b3b3">
+         style="fill:url(#linearGradient833);fill-opacity:1">
         <clipPath
-           id="_clipPath_xdXVxwgk37Xq43qX8NTJiCqi3wjgX0Ux">
+           id="_clipPath_xdXVxwgk37Xq43qX8NTJiCqi3wjgX0Ux"
+           style="fill-opacity:1;fill:url(#linearGradient833)">
           <rect
              x="-1.5"
              y="-1.5"
@@ -90,30 +113,31 @@
              height="21"
              id="rect1312"
              fill="rgb(255,255,255)"
-             transform="matrix(1,0,0,1,0,0)" />
+             transform="matrix(1,0,0,1,0,0)"
+             style="fill-opacity:1;fill:url(#linearGradient833)" />
         </clipPath>
         <g
            clip-path="url(#_clipPath_xdXVxwgk37Xq43qX8NTJiCqi3wjgX0Ux)"
            id="g1326"
-           style="fill:#b3b3b3">
+           style="fill:url(#linearGradient833);fill-opacity:1">
           <g
              id="g1324"
-             style="fill:#b3b3b3">
+             style="fill:url(#linearGradient833);fill-opacity:1">
             <g
                id="Group"
-               style="fill:#b3b3b3">
+               style="fill:url(#linearGradient833);fill-opacity:1">
               <path
                  d=" M 9 0.25 L 9 0.25 C 13.829 0.25 17.75 4.171 17.75 9 L 17.75 9 C 17.75 13.829 13.829 17.75 9 17.75 L 9 17.75 C 4.171 17.75 0.25 13.829 0.25 9 L 0.25 9 C 0.25 4.171 4.171 0.25 9 0.25 Z "
                  id="path1315"
                  fill="rgb(0,132,255)"
-                 style="fill:#b3b3b3" />
+                 style="fill:url(#linearGradient833);fill-opacity:1" />
             </g>
           </g>
         </g>
       </g>
       <path
          sodipodi:type="star"
-         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="path1912"
          sodipodi:sides="3"
          sodipodi:cx="11.551282"
@@ -129,7 +153,7 @@
          inkscape:transform-center-x="0.2833593"
          inkscape:transform-center-y="0.28335924" />
       <rect
-         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1914"
          width="9.96875"
          height="1.03125"
@@ -138,7 +162,7 @@
          transform="rotate(-45)" />
       <path
          sodipodi:type="star"
-         style="isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         style="isolation:isolate;fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="path1912-3"
          sodipodi:sides="3"
          sodipodi:cx="-6.2521081"

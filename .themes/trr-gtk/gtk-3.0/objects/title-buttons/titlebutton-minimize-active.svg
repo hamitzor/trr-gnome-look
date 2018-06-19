@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="isolation:isolate"
@@ -15,7 +16,7 @@
    height="18"
    version="1.1"
    id="svg2108"
-   sodipodi:docname="titlebutton-minimize-active.svg"
+   sodipodi:docname="titlebutton-minimize.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata2112">
@@ -25,7 +26,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,11 +39,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1003"
      id="namedview2110"
      showgrid="false"
      inkscape:zoom="37.083822"
-     inkscape:cx="13.195383"
+     inkscape:cx="2.8134974"
      inkscape:cy="9.3289863"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -51,6 +51,18 @@
      inkscape:current-layer="svg2108" />
   <defs
      id="defs2085">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient832">
+      <stop
+         style="stop-color:#0043cc;stop-opacity:1"
+         offset="0"
+         id="stop828" />
+      <stop
+         style="stop-color:#008fdd;stop-opacity:1"
+         offset="1"
+         id="stop830" />
+    </linearGradient>
     <clipPath
        id="_clipPath_P2oMFFt3CgOGLArJOdwYSFGl2CJ8ZzUw">
       <rect
@@ -58,13 +70,23 @@
          height="18"
          id="rect2082" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient832"
+       id="linearGradient834"
+       x1="9"
+       y1="17.75"
+       x2="9"
+       y2="0.25"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      clip-path="url(#_clipPath_P2oMFFt3CgOGLArJOdwYSFGl2CJ8ZzUw)"
      id="g2106"
-     style="fill:#999999">
+     style="fill:url(#linearGradient834);fill-opacity:1">
     <clipPath
-       id="_clipPath_R4lp5FpgEU2TS9ZgqDcVQi403fMGBpSm">
+       id="_clipPath_R4lp5FpgEU2TS9ZgqDcVQi403fMGBpSm"
+       style="fill-opacity:1;fill:url(#linearGradient834)">
       <rect
          x="-1.5"
          y="-1.5"
@@ -72,17 +94,19 @@
          height="21"
          transform="matrix(1,0,0,1,0,0)"
          fill="rgb(255,255,255)"
-         id="rect2087" />
+         id="rect2087"
+         style="fill-opacity:1;fill:url(#linearGradient834)" />
     </clipPath>
     <g
        clip-path="url(#_clipPath_R4lp5FpgEU2TS9ZgqDcVQi403fMGBpSm)"
        id="g2104"
-       style="fill:#999999">
+       style="fill:url(#linearGradient834);fill-opacity:1">
       <g
          id="g2102"
-         style="fill:#999999">
+         style="fill:url(#linearGradient834);fill-opacity:1">
         <clipPath
-           id="_clipPath_YsUVorvxj04CnnW8Kpi4YLI26YzxYXRy">
+           id="_clipPath_YsUVorvxj04CnnW8Kpi4YLI26YzxYXRy"
+           style="fill-opacity:1;fill:url(#linearGradient834)">
           <rect
              x="-1.5"
              y="-1.5"
@@ -90,23 +114,24 @@
              height="21"
              transform="matrix(1,0,0,1,0,0)"
              fill="rgb(255,255,255)"
-             id="rect2090" />
+             id="rect2090"
+             style="fill-opacity:1;fill:url(#linearGradient834)" />
         </clipPath>
         <g
            clip-path="url(#_clipPath_YsUVorvxj04CnnW8Kpi4YLI26YzxYXRy)"
            id="g2100"
-           style="fill:#999999">
+           style="fill:url(#linearGradient834);fill-opacity:1">
           <g
              id="g2098"
-             style="fill:#999999">
+             style="fill:url(#linearGradient834);fill-opacity:1">
             <g
                id="Group"
-               style="fill:#999999">
+               style="fill:url(#linearGradient834);fill-opacity:1">
               <path
                  d=" M 9 0.25 L 9 0.25 C 13.829 0.25 17.75 4.171 17.75 9 L 17.75 9 C 17.75 13.829 13.829 17.75 9 17.75 L 9 17.75 C 4.171 17.75 0.25 13.829 0.25 9 L 0.25 9 C 0.25 4.171 4.171 0.25 9 0.25 Z "
                  fill="rgb(0,189,69)"
                  id="path2093"
-                 style="fill:#999999" />
+                 style="fill:url(#linearGradient834);fill-opacity:1" />
             </g>
           </g>
         </g>
@@ -114,7 +139,7 @@
     </g>
   </g>
   <rect
-     style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
      id="rect2659"
      width="7.0111437"
      height="1.6449221"
